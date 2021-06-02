@@ -1,0 +1,5 @@
+"CardNumber","ExpirationDate","NameOfCardHolder","CardType","Error"
+"5410000000000000","3/20/2030","Alice","Master","No Error"
+"4120000000000","4/20/2030","Bob","Visa","No Error"
+"341000000000000","5/20/2030","Eve","AmEx","No Error"
+"6011000000000000","6/20/2030","Richard","Discover","No Error"
